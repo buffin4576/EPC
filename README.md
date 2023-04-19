@@ -1,5 +1,5 @@
 # EPC
 Package for houdini workshop
 
-#Installation
+# Installation
 To install...
