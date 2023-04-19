@@ -1,0 +1,8 @@
+{
+    "hpath":"$EPC",
+	"env":[
+        {
+            "EPC":"C:/Users/mattia.buffa/Desktop/EPC_PACKAGE/EPC/"
+        }
+    ]
+}
